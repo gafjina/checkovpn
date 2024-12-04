@@ -1,0 +1,10 @@
+Wed Dec  4 01:41:06 2024 WARNING: file 'ovpn_credentials.txt' is group or others accessible
+Wed Dec  4 01:41:06 2024 OpenVPN 2.4.12 x86_64-pc-linux-gnu [SSL (OpenSSL)] [LZO] [LZ4] [EPOLL] [PKCS11] [MH/PKTINFO] [AEAD] built on Jun 27 2024
+Wed Dec  4 01:41:06 2024 library versions: OpenSSL 1.1.1f  31 Mar 2020, LZO 2.10
+Wed Dec  4 01:41:06 2024 WARNING: No server certificate verification method has been enabled.  See http://openvpn.net/howto.html#mitm for more info.
+Wed Dec  4 01:41:06 2024 TCP/UDP: Preserving recently used remote address: [AF_INET]47.229.151.94:1305
+Wed Dec  4 01:41:06 2024 UDP link local: (not bound)
+Wed Dec  4 01:41:06 2024 UDP link remote: [AF_INET]47.229.151.94:1305
+Wed Dec  4 01:41:10 2024 [opengw.net] Peer Connection Initiated with [AF_INET]47.229.151.94:1305
+Wed Dec  4 01:41:12 2024 AUTH: Received control message: AUTH_FAILED
+Wed Dec  4 01:41:12 2024 SIGTERM[soft,auth-failure] received, process exiting
