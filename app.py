@@ -91,7 +91,7 @@ def check_ovpn():
         )
 
         # Wait for log updates
-        timeout_seconds = 20  # Tambahkan waktu jika koneksi membutuhkan waktu lebih lama
+        timeout_seconds = 8  # Tambahkan waktu jika koneksi membutuhkan waktu lebih lama
         start_time = time.time()
 
         while time.time() - start_time < timeout_seconds:
